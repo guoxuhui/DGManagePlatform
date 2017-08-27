@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+
+	<Source>
+		<tbmCode>ZJTH001</tbmCode>
+		<tbmName>佛山地铁3号线02标左线</tbmName>
+		<folderPath>/Users/guoxuhui/git/DataOptClient/DataOptClient/docs</folderPath>
+		<uploadCycle>5</uploadCycle>
+	</Source>
+	<Target>
+		<serverIp>118.178.93.159</serverIp>
+		<serverPort>8080</serverPort>
+	</Target>
+	
+</Config>
