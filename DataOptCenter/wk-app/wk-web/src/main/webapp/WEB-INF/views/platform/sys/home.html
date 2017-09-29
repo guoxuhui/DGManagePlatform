@@ -1,0 +1,32 @@
+<%
+layout("/layouts/platform.html"){
+%>
+<div class="content-wrap">
+
+    <div class="wrapper">
+
+        <dl class="accordion">
+            <dt>
+                <a href="javascript:;" class="active">数据传输缓存状态</a>
+            </dt>
+            <dd style="display: block">
+                <b>当前缓存池:</b> ${queueLength}<br>
+                <br>
+                <b>忽略数据量:</b> ${abortLength}<br>
+                <br>
+                <b>执行入库时间:</b> ${oneTime} -- ${twoTime} -- ${threeTime}<br>
+            </dd>
+        </dl>
+        <dl class="accordion">
+            <dt>
+                <a href="javascript:;">3.2</a>
+            </dt>
+            <dd style="display: block">
+                
+            </dd>
+        </dl>
+    </div>
+
+</div>
+
+<%}%>

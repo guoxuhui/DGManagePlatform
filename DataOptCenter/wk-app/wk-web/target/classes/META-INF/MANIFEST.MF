@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: wk-web
+Implementation-Version: 4.0.1-SNAPSHOT
+Built-By: guoxuhui
+Implementation-Vendor-Id: cn.wizzer.app
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://www.wizzer.cn/wk-app/wk-web
+Created-By: Maven Integration for Eclipse
+
